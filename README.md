@@ -12,9 +12,8 @@
 <div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-radius: 10px;">
 <h2 style="color: #0e75b6;">👤 About Me</h2>
 <p>
-Hi, I'm <strong>YADAV</strong>! 😄<br/>
-I'm a <strong>self-taught Backend Developer</strong> who loves exploring new technologies and turning ideas into real-world projects. Most of my work comes from personal projects that I enjoy building just for the fun of it.<br/>
-I primarily work with <strong>PHP, Node.js, Python, JavaScript, HTML, CSS, C, Bash, and MySQL</strong>, creating backend systems that are both functional and efficient. Coding has been my passion, and I love learning new things every day while building solutions that matter.
+I'm a <strong>self-taught Backend Developer</strong> passionate about building personal projects and exploring new technologies.<br/>
+I work with <strong>PHP, Node.js, Python, JavaScript, HTML, CSS, C, Bash, and MySQL</strong>, creating efficient backend solutions.
 </p>
 </div>
 
