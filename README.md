@@ -3,10 +3,13 @@
 
 <h2>Passionate Backend Developer | PHP • Node.js • Python</h2>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SirYadav1&label=Profile%20views&color=00a400&style=flat" alt="SirYadav1" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=SirYadav1&label=Profile%20views&color=00a400&style=flat" alt="SirYadav1" /> 
 </p>
 
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=SirYadav1&cc=000000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
 <hr>
 
 <div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-radius: 10px;">
