@@ -41,20 +41,11 @@
 
 <div align="center">
 
-```
-🧑‍💻  Backend Developer        🐧  Linux Power User
-🌐  REST APIs & WebSockets     📜  Bash Scripting
-🔧  PHP • Node.js • Python    🗄️  MySQL & Databases
-🚀  Self-taught, always shipping
-```
+Backend developer who enjoys building things that work. I write **PHP, Node.js, Python** and spend most of my time on **Linux** terminals.
 
-**What I do:**
+I like making tools — Discord bots, browser extensions, automation scripts, APIs. If it saves time or does something cool, I'm probably building it.
 
-I build backend systems, APIs, and automation tools. Mostly work with **PHP, Node.js, and Python**. I love creating things that solve real problems — from Discord bots to web scrapers to CLI tools.
-
-I'm a **Linux enthusiast** who lives in the terminal. If it can be automated, I'll automate it.
-
-Currently exploring **WebSocket-based applications** and **real-time systems**.
+Not a fan of fancy frameworks when a simple script gets the job done.
 
 </div>
 
@@ -84,15 +75,13 @@ Currently exploring **WebSocket-based applications** and **real-time systems**.
 
 ---
 
-### 🎯 What I'm Working On
+### 📂 Featured Projects
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| 🔨 Building Discord RPC tools | 📡 WebSocket-based apps |
-| 🐧 Linux automation scripts | 🌐 REST API development |
-| 🤖 Bot projects | 🛠️ CLI utilities |
+<a href="https://github.com/SirYadav1/youtube-discord-rpc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SirYadav1&repo=youtube-discord-rpc&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" width="45%" />
+</a>
 
 </div>
 
