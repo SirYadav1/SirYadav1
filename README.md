@@ -41,13 +41,20 @@
 
 <div align="center">
 
-I'm a **self-taught Backend Developer** who loves building things from scratch and figuring out how stuff works.
+```
+🧑‍💻  Backend Developer        🐧  Linux Power User
+🌐  REST APIs & WebSockets     📜  Bash Scripting
+🔧  PHP • Node.js • Python    🗄️  MySQL & Databases
+🚀  Self-taught, always shipping
+```
 
-I work with **PHP, Node.js, Python, JavaScript, HTML, CSS, C, Bash, and MySQL** — creating efficient backend solutions and automation scripts.
+**What I do:**
 
-**Linux enthusiast.** I spend most of my time on the terminal, writing scripts and building APIs.
+I build backend systems, APIs, and automation tools. Mostly work with **PHP, Node.js, and Python**. I love creating things that solve real problems — from Discord bots to web scrapers to CLI tools.
 
-Always learning. Always shipping. Always breaking things and fixing them.
+I'm a **Linux enthusiast** who lives in the terminal. If it can be automated, I'll automate it.
+
+Currently exploring **WebSocket-based applications** and **real-time systems**.
 
 </div>
 
@@ -74,6 +81,26 @@ Always learning. Always shipping. Always breaking things and fixing them.
 </div>
 
 <br/>
+
+---
+
+### 🎯 What I'm Working On
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🔨 Building Discord RPC tools | 📡 WebSocket-based apps |
+| 🐧 Linux automation scripts | 🌐 REST API development |
+| 🤖 Bot projects | 🛠️ CLI utilities |
+
+</div>
+
+<br/>
+
+---
+
+### 📈 Activity
 
 <div align="center">
 
