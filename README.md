@@ -75,18 +75,6 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SirYadav1&theme=github-dark&no-frame=true&column=7&margin-w=10&no-bg=true" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
 ### 📈 Activity
 
 <div align="center">
