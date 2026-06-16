@@ -12,6 +12,31 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/SirYadav1">
+  <img src="https://github-readme-stats.vercel.app/api?username=SirYadav1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%" />
+</a>
+<a href="https://github.com/SirYadav1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SirYadav1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="48%" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SirYadav1&theme=github-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+---
+
 ### 👤 About Me
 
 <div align="center">
@@ -45,31 +70,6 @@ Always learning. Always shipping. Always breaking things and fixing them.
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </a>
-
-</div>
-
-<br/>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/SirYadav1">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirYadav1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%" />
-</a>
-<a href="https://github.com/SirYadav1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SirYadav1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="48%" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SirYadav1&theme=github-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555)](https://git.io/streak-stats)
 
 </div>
 
