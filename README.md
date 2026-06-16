@@ -75,13 +75,11 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 
 ---
 
-### 📂 Featured Projects
+### 🏆 Achievements
 
 <div align="center">
 
-<a href="https://github.com/SirYadav1/youtube-discord-rpc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SirYadav1&repo=youtube-discord-rpc&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" width="45%" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=SirYadav1&theme=github-dark&no-frame=true&column=7&margin-w=10&no-bg=true" width="100%"/>
 
 </div>
 
