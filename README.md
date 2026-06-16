@@ -37,19 +37,15 @@
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=About+Me" alt="About Me"/>
-
-</div>
-
-<br/>
+### 👤 About Me
 
 <div align="center">
 
-<a href="https://github.com/SirYadav1">
-  <img width="400" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&multiline=true&repeat=true&width=455&height=130&lines=Backend+developer+who+enjoys+building+things+that+work.;I+write+PHP,+Node.js,+Python+and+spend+most+of+my+time+on+Linux+terminals.;I+like+making+tools+%E2%80%94+Discord+bots,+browser+extensions,+automation+scripts.+If+it+saves+time,+I%27m+probably+building+it." alt="Typing SVG" />
-</a>
+Backend developer who enjoys building things that work. I write **PHP, Node.js, Python** and spend most of my time on **Linux** terminals.
+
+I like making tools — Discord bots, browser extensions, automation scripts, APIs. If it saves time or does something cool, I'm probably building it.
+
+Not a fan of fancy frameworks when a simple script gets the job done.
 
 </div>
 
