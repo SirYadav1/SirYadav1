@@ -108,6 +108,9 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 <a href="https://paypal.me/SundramYadav4601">
   <img src="https://img.shields.io/badge/PayPal-SundramYadav-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/>
 </a>
+<a href="https://leetcode.com/u/siryadav1">
+  <img src="https://img.shields.io/badge/LeetCode-SirYadav1-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
 </div>
 
