@@ -67,7 +67,7 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 
 ### OS
 
-![](https://skillicons.dev/icons?i=linux,ubuntu,kali,apple,windows&theme=dark)
+![](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows&theme=dark)
 
 <br>
 
