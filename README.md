@@ -89,22 +89,14 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 
 ---
 
-### 🌐 Connect With Me
+### 🔗 Connect
 
 <div align="center">
 
-<a href="https://t.me/SirYadav">
-  <img src="https://img.shields.io/badge/-Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="https://x.com/siryadav0">
-  <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="mailto:osamabinladenfromindia@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://leetcode.com/u/siryadav1">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<a href="https://t.me/SirYadav"><img src="https://cdn.simpleicons.org/telegram/00ff41" width="32" height="32" alt="Telegram"/></a>
+<a href="https://x.com/siryadav0"><img src="https://cdn.simpleicons.org/x/00ff41" width="32" height="32" alt="X"/></a>
+<a href="mailto:osamabinladenfromindia@gmail.com"><img src="https://cdn.simpleicons.org/gmail/00ff41" width="32" height="32" alt="Gmail"/></a>
+<a href="https://leetcode.com/u/siryadav1"><img src="https://cdn.simpleicons.org/leetcode/00ff41" width="32" height="32" alt="LeetCode"/></a>
 
 </div>
 
