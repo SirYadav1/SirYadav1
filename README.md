@@ -94,22 +94,16 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 <div align="center">
 
 <a href="https://t.me/SirYadav">
-  <img src="https://img.shields.io/badge/Telegram-Siryadav-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/-Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://x.com/siryadav0">
-  <img src="https://img.shields.io/badge/X-@siryadav0-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://instagram.com/rootxyadav">
-  <img src="https://img.shields.io/badge/Instagram-rootxyadav-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 <a href="mailto:osamabinladenfromindia@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://paypal.me/SundramYadav4601">
-  <img src="https://img.shields.io/badge/PayPal-SundramYadav-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/>
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://leetcode.com/u/siryadav1">
-  <img src="https://img.shields.io/badge/LeetCode-SirYadav1-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 </div>
