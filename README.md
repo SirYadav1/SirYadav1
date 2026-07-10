@@ -17,7 +17,7 @@
 <div align="center">
 
 <a href="https://github.com/SirYadav1">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirYadav1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SirYadav1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%" />
 </a>
 <a href="https://github.com/SirYadav1">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SirYadav1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="48%" />
