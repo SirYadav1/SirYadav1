@@ -18,14 +18,14 @@
 
 <a href="https://github.com/SirYadav1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=SirYadav1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-    <img src="https://github-stats-extended.vercel.app/api?username=SirYadav1&show_icons=true&theme=github_light&hide_border=true&bg_color=ffffff&title_color=00a32f&icon_color=00a32f&text_color=333333&include_all_commits=true&count_private=true" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=SirYadav1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api?username=SirYadav1&show_icons=true&hide_border=true&bg_color=ffffff&title_color=00a32f&icon_color=00a32f&text_color=333333&include_all_commits=true&count_private=true&v=2" width="48%" />
   </picture>
 </a>
 <a href="https://github.com/SirYadav1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=SirYadav1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SirYadav1&layout=compact&theme=github_light&hide_border=true&bg_color=ffffff&title_color=00a32f&text_color=333333&langs_count=8" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=SirYadav1&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SirYadav1&layout=compact&hide_border=true&bg_color=ffffff&title_color=00a32f&text_color=333333&langs_count=8&v=2" width="48%" />
   </picture>
 </a>
 
@@ -37,8 +37,8 @@
 
 <a href="https://git.io/streak-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SirYadav1&theme=github-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-    <img src="https://streak-stats.demolab.com?user=SirYadav1&theme=github-light&hide_border=true&background=ffffff&stroke=00a32f&ring=00a32f&fire=00a32f&currStreakLabel=00a32f&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=888888" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SirYadav1&theme=github-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&v=2" />
+    <img src="https://streak-stats.demolab.com?user=SirYadav1&theme=github-light&hide_border=true&background=ffffff&stroke=00a32f&ring=00a32f&fire=00a32f&currStreakLabel=00a32f&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=888888&v=2" />
   </picture>
 </a>
 
@@ -67,29 +67,29 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 ### 💻 Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,nodejs,python,js,html,css,c,bash&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=php,nodejs,python,js,html,css,c,bash&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,nodejs,python,js,html,css,c,bash&theme=dark&v=2" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,python,js,html,css,c,bash&theme=light&v=2" />
 </picture>
 
 ### Frameworks
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express,react,nextjs,flutter&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=express,react,nextjs,flutter&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express,react,nextjs,flutter&theme=dark&v=2" />
+  <img src="https://skillicons.dev/icons?i=express,react,nextjs,flutter&theme=light&v=2" />
 </picture>
 
 ### Infrastructure
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,mysql,cloudflare&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,nginx,mysql,cloudflare&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,mysql,cloudflare&theme=dark&v=2" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,mysql,cloudflare&theme=light&v=2" />
 </picture>
 
 ### OS
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows&theme=dark&v=2" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows&theme=light&v=2" />
 </picture>
 
 <br>
@@ -105,8 +105,8 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SirYadav1&theme=github-compact&bg_color=0d1117&line=00ff41&point=ffffff&color=00ff41&title_color=00ff41&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SirYadav1&theme=github-light&bg_color=ffffff&line=00a32f&point=333333&color=00a32f&title_color=00a32f&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SirYadav1&bg_color=0d1117&line=00ff41&point=ffffff&color=00ff41&title_color=00ff41&area=true&hide_border=true&v=2" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SirYadav1&bg_color=ffffff&line=00a32f&point=333333&color=00a32f&title_color=00a32f&area=true&hide_border=true&v=2" />
 </picture>
 
 </div>
