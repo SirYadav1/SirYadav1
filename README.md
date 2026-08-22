@@ -37,8 +37,8 @@
 
 <a href="https://git.io/streak-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SirYadav1&theme=github-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&v=3" />
-    <img src="https://streak-stats.demolab.com?user=SirYadav1&theme=github-light&hide_border=true&background=ffffff&stroke=00a32f&ring=00a32f&fire=00a32f&currStreakLabel=00a32f&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=888888&v=3" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg" />
+    <img src="assets/streak-light.svg" />
   </picture>
 </a>
 
