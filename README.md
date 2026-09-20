@@ -35,10 +35,10 @@
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=SirYadav1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg" />
-    <img src="assets/streak-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SirYadav1&theme=dark&border=3b1f64&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&background=0d1117" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirYadav1&theme=light&border=adbac7&ring=00a32f&fire=00a32f&currStreakLabel=00a32f&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=576075&background=ffffff" />
   </picture>
 </a>
 
@@ -105,8 +105,8 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SirYadav1&bg_color=0d1117&line=00ff41&point=ffffff&color=00ff41&title_color=00ff41&area=true&hide_border=true&v=3" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SirYadav1&bg_color=ffffff&line=00a32f&point=333333&color=00a32f&title_color=00a32f&area=true&hide_border=true&v=3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=SirYadav1&bg_color=0d1117&line=00ff41&point=ffffff&color=00ff41&title_color=00ff41&area=true&hide_border=true" />
+  <img src="https://activity-graph.vercel.app/graph?username=SirYadav1&bg_color=ffffff&line=00a32f&point=333333&color=00a32f&title_color=00a32f&area=true&hide_border=true" />
 </picture>
 
 </div>
