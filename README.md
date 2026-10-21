@@ -58,6 +58,10 @@ I like making tools — Discord bots, browser extensions, automation scripts, AP
 
 Not a fan of fancy frameworks when a simple script gets the job done.
 
+<br/>
+
+Known online as **SirYadav** (GitHub: **SirYadav1**) — backend developer & security researcher. More about me at <a href="https://yadav.codes"><b>yadav.codes</b></a>.
+
 </div>
 
 <br/>
@@ -119,6 +123,10 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 
 <div align="center">
 
+<a href="https://yadav.codes">
+  <img src="https://img.shields.io/badge/Website-yadav.codes-00ff41?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://t.me/SirYadav">
   <img src="https://img.shields.io/badge/Telegram-@SirYadav-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
