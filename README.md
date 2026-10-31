@@ -144,11 +144,11 @@ I'm **Sundram Yadav**, known online as **SirYadav** (GitHub: **SirYadav1**) — 
   <img src="https://img.shields.io/badge/Telegram-@SirYadav-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://x.com/siryadav0">
-  <img src="https://img.shields.io/badge/X-@siryadav0-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+<a href="https://x.com/SirYadav11">
+  <img src="https://img.shields.io/badge/X-@SirYadav11-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:osamabinladenfromindia@gmail.com">
+<a href="mailto:sundramy807@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;
