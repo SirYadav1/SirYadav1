@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=Hi%20👋%20I'm%20Sundram%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20PHP%20•%20Node.js%20•%20Python&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=Hi%20👋%20I'm%20Sundram%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20PHP%20•%20Node.js%20•%20Python&descSize=18&descAlignY=55&descAlign=50" alt="Sundram Yadav — SirYadav, backend developer" width="100%"/>
 
 <br/>
 
@@ -60,11 +60,24 @@ Not a fan of fancy frameworks when a simple script gets the job done.
 
 <br/>
 
-Known online as **SirYadav** (GitHub: **SirYadav1**) — backend developer & security researcher. More about me at <a href="https://yadav.codes"><b>yadav.codes</b></a>.
+I'm **Sundram Yadav**, known online as **SirYadav** (GitHub: **SirYadav1**) — a backend developer and security researcher based in Uttar Pradesh, India. I build network tools, scanners and automation in **Python**, **Go**, **PHP** and **Node.js**. More about me at <a href="https://yadav.codes"><b>yadav.codes</b></a>.
 
 </div>
 
 <br/>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does |
+|---|---|
+| **[AdwanceSNI-2.0](https://github.com/SirYadav1/AdwanceSNI-2.0)** | Network scanning + subdomain discovery suite — IP extraction, IP generation, lite scanner. |
+| **[AdwanceSNI](https://github.com/SirYadav1/AdwanceSNI)** | Simple SNI finding tool for recon and bug bounty. |
+| **[sonar-bypass](https://github.com/SirYadav1/sonar-bypass)** | Minecraft Sonar verification research (educational). |
+| **[zyphron-free-dash](https://github.com/SirYadav1/zyphron-free-dash)** | Free game server hosting panel — credits economy, Pterodactyl integration, admin dashboard. NestJS + Vue 3. |
+| **[kvizo](https://github.com/SirYadav1/kvizo)** | Quiz app with community quizzes, anime avatars and Ed25519 signed content. Kotlin + Jetpack Compose. |
+| **[flashscan-go](https://github.com/SirYadav1/flashscan-go)** | Optimised port scanner based on bugscanner, in Go. |
 
 ---
 
